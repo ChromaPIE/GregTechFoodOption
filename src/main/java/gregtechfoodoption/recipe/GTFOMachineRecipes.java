@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import static gregtech.api.recipes.RecipeMaps.ASSEMBLER_RECIPES;
-import static gregtech.api.unification.material.MarkerMaterials.Tier.Good;
+import static gregtech.api.unification.material.MarkerMaterials.Tier.MV;
 import static gregtech.api.unification.material.Materials.*;
 import static gregtech.api.unification.ore.OrePrefix.*;
 import static gregtech.common.blocks.BlockWireCoil.CoilType.CUPRONICKEL;
