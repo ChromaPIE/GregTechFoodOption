@@ -104,7 +104,7 @@ public class GTFOMachineRecipes {
                 "CPC", "IWI", "CAC",
                 'C', GTFOMetaBlocks.GTFO_METAL_CASING.getItemVariant(GTFOMetalCasing.CasingType.BISMUTH_BRONZE_CASING),
                 'P', MetaItems.ELECTRIC_PUMP_MV,
-                'I', new UnificationEntry(circuit, Good),
+                'I', new UnificationEntry(circuit, MV),
                 'W', new UnificationEntry(wireGtQuadruple, Cupronickel),
                 'A', MetaBlocks.WIRE_COIL.getItemVariant(CUPRONICKEL));
 
